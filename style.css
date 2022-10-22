@@ -105,26 +105,26 @@ input[type=text]{
 .search{
   width: 1.5em;
   height: 1.5rem;
-  background: transparent url(search-black.png") no-repeat;
+  background: transparent url("search-black.png") no-repeat;
   background-size: contain;
 }
 
 .nav-button{
   width: 1.5rem;
   height: 1.5rem;
-  background: transparent url(Menu-Black.png") no-repeat;
+  background: transparent url("Menu-Black.png") no-repeat;
   cursor: pointer;
   border: none;
   background-size:contain;
 }
 
 .search:hover {
-    background: url(search-red.png") no-repeat;
+    background: url("search-red.png") no-repeat;
     background-size: contain;
 }
 
 .nav-button:hover {
-  background: url(Menu-Red.png") no-repeat;
+  background: url("Menu-Red.png") no-repeat;
   background-size: contain;
 }
 .parent{
